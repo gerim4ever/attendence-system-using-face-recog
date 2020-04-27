@@ -1,4 +1,4 @@
-# attendence-system-using-face-recog
+# Attendence-System-Using-Face-Recognition
 # Features :clipboard:
 ---------------------------
 * Check Camera
